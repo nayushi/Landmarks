@@ -1,2 +1,2 @@
 # Landmarks
- SwiftUI
+ SwiftUI project
